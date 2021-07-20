@@ -1,1 +1,1 @@
-# What_color_is_bot
+# Palette-finder-bot
